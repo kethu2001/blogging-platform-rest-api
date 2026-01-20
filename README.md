@@ -1,1 +1,1 @@
-# blogging-platform-rest-api
+# Blogging Platform REST API
